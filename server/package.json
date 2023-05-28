@@ -1,0 +1,18 @@
+{
+  "name": "p5js-socket-example",
+  "version": "0.0.0",
+  "description": "P5JS uses sockets to interact with the server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "p5js",
+    "nodejs"
+  ],
+  "author": "Chih-Yung Chang",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.6.1"
+  }
+}
